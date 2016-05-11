@@ -16,6 +16,6 @@ Unit tests are included.
   + ARC
   + iOS 8
 
-  ## License
+## License
 
   This project is available under the MIT license. See the LICENSE file for more info.
